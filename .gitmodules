@@ -7,3 +7,6 @@
 [submodule "lib/tiny-devices"]
 	path = lib/tiny-devices
 	url = https://github.com/ryanplusplus/tiny-devices
+[submodule "lib/atomthreads"]
+	path = lib/atomthreads
+	url = https://github.com/kelvinlawson/atomthreads
