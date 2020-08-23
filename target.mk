@@ -19,11 +19,13 @@ SRC_DIRS := \
   src \
 
 LIB_FILES := \
+  lib/atomthreads/ports/stm8/atomport-asm-sdcc.s \
 
 LIB_DIRS := \
   $(TINY)/src \
   $(STM8_TINY)/src \
   $(TINY_DEVICES)/src \
+  lib/atomthreads/kernel \
 
 INC_DIRS := \
   $(TINY)/include \

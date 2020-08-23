@@ -6,7 +6,11 @@
         "STM8S103"
       ],
       "includePath": [
-        "${workspaceFolder}/**"
+        "${workspaceFolder}/lib/atomthreads/kernel/**",
+        "${workspaceFolder}/lib/atomthreads/ports/stm8/**",
+        "${workspaceFolder}/lib/stm8-tiny/**",
+        "${workspaceFolder}/lib/tiny-devices/**",
+        "${workspaceFolder}/src/**"
       ],
       "intelliSenseMode": "gcc-x64",
       "cStandard": "c99",

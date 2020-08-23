@@ -1,5 +1,5 @@
-# stm8-tiny-starter-kit
-Empty project for creating an stm8-tiny application.
+# stm8-tiny-atomthreads
+Fiddling around with STM8, [tiny](https://github.com/ryanplusplus/tiny), and [Atomthreads](https://atomthreads.com/).
 
 ## Setup
 ### Linux
