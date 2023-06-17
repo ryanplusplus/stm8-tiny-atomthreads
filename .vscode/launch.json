@@ -9,7 +9,7 @@
       "type": "cppdbg",
       "request": "launch",
       "cwd": "${workspaceFolder}",
-      "program": "${workspaceFolder}/build/target-debug.elf",
+      "program": "${workspaceFolder}/build/app-debug.elf",
       "MIMode": "gdb",
       "miDebuggerPath": "${workspaceFolder}/build/stm8-gdb",
       "miDebuggerServerAddress": "localhost:3333",
